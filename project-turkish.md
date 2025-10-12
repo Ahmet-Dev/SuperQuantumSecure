@@ -1,4 +1,4 @@
-SUPER SECURE QUANTUM
+# SUPER SECURE QUANTUM FORMULA
 
 ## 🔐 Şifreleme Algoritmasının Temel Özellikleri:
 
