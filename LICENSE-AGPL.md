@@ -1,14 +1,13 @@
 GNU AFFERO GENERAL PUBLIC LICENSE
 Version 3, 19 November 2007
 
-Copyright (C) 2025 [Senin Adın veya Kurum Adı]
+Copyright (C) 2025 Ahmet Kahraman
 
 Everyone is permitted to copy and distribute verbatim copies
 of this license document, but changing it is not allowed.
 
 ...
 
-[Buraya AGPLv3 tam metnini koy, örneğin: https://www.gnu.org/licenses/agpl-3.0.txt]
 
 ---
 
