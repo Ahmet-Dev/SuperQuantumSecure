@@ -5,7 +5,6 @@
 1. **Sicim Formülü Kullanımı (String Formula):**
 
    * Muhtemelen giriş verisi bir şekilde özel bir string (karakter dizisi) formülüne göre dönüştürülüyor.
-   * "Sicim" fiziksel sicim teorisi mi, yoksa kelime anlamında "string" mi? (Açıklarsan netleştiririm.)
 
 2. **Quantum Dolanıklık (Entanglement) Fikri:**
 
